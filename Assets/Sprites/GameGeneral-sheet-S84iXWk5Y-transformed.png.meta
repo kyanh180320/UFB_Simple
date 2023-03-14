@@ -1,0 +1,4215 @@
+fileFormatVersion: 2
+guid: 467af79c4dbbd35459414a351a023d20
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 743
+        width: 1788
+        height: 615
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4942c2d550bd8394b8f667fb16d7e409
+      internalID: 1969841583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_1
+      rect:
+        serializedVersion: 2
+        x: 1812
+        y: 1096
+        width: 136
+        height: 247
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad477e36c32f1c74d9fa1cc58f31153b
+      internalID: -1229738697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_2
+      rect:
+        serializedVersion: 2
+        x: 1955
+        y: 1096
+        width: 85
+        height: 247
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb303269f0f822c49b52229dcb1f96e9
+      internalID: -950601216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_3
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1094
+        width: 172
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4861cb8f7de59ae46b6e3af3f801ec18
+      internalID: 1692695154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_4
+      rect:
+        serializedVersion: 2
+        x: 2232
+        y: 1096
+        width: 116
+        height: 247
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 661a69718d683374c9529ffe5e05f28a
+      internalID: 1757091231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_5
+      rect:
+        serializedVersion: 2
+        x: 2353
+        y: 1244
+        width: 49
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42feb7ffe38e49645836974c9f9e9d57
+      internalID: 1116808002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_6
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 1096
+        width: 128
+        height: 247
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b29eeb9ff4e5204eb817c90ba8b24af
+      internalID: 644497751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_7
+      rect:
+        serializedVersion: 2
+        x: 2608
+        y: 1096
+        width: 139
+        height: 247
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8287427c9f29b634884d03f843d50d81
+      internalID: 13579781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_8
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 1096
+        width: 132
+        height: 247
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c156d124701193489fe6b4d0f6fb2fe
+      internalID: 414179155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_9
+      rect:
+        serializedVersion: 2
+        x: 2896
+        y: 1096
+        width: 56
+        height: 247
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd81d0675570881419b8c9de9f4836b8
+      internalID: 2093812174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_10
+      rect:
+        serializedVersion: 2
+        x: 2955
+        y: 1125
+        width: 145
+        height: 239
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bfb08a4592b61141866d83bfb27c394
+      internalID: -1743911058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_11
+      rect:
+        serializedVersion: 2
+        x: 3103
+        y: 1124
+        width: 141
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc794354ff72c124dbac59841d35c2c9
+      internalID: -763784724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_12
+      rect:
+        serializedVersion: 2
+        x: 3252
+        y: 1125
+        width: 136
+        height: 239
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f9f293a1ed1e9743a92e46a312079d2
+      internalID: 2041437418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_13
+      rect:
+        serializedVersion: 2
+        x: 3468
+        y: 1125
+        width: 209
+        height: 239
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 098c08e6ae0e62946aeef30b35648f14
+      internalID: 1545650071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_14
+      rect:
+        serializedVersion: 2
+        x: 3684
+        y: 1124
+        width: 84
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b527cdd3f4631443b07e43d3aea57ec
+      internalID: 993455783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_15
+      rect:
+        serializedVersion: 2
+        x: 3776
+        y: 1124
+        width: 141
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33a9d06f536556e4c9721fdc915c972c
+      internalID: 296892407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_16
+      rect:
+        serializedVersion: 2
+        x: 3925
+        y: 100
+        width: 131
+        height: 1266
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dde47c6b7c647804c8016e605b28be07
+      internalID: 362461527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_17
+      rect:
+        serializedVersion: 2
+        x: 1812
+        y: 852
+        width: 143
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be4d10f2d49508f4e807a7e0ceb6ded3
+      internalID: -873292216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_18
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 853
+        width: 140
+        height: 239
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec85a12efac8e4e49a5546e0af8e58ac
+      internalID: 1566703302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_19
+      rect:
+        serializedVersion: 2
+        x: 2108
+        y: 853
+        width: 135
+        height: 239
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 920e97a4897a3e749bf6d5b99f594e3d
+      internalID: 338203561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_20
+      rect:
+        serializedVersion: 2
+        x: 2321
+        y: 853
+        width: 115
+        height: 239
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b79cb396f390ca4598b1d9dd7129e24
+      internalID: -1636807861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_21
+      rect:
+        serializedVersion: 2
+        x: 2444
+        y: 853
+        width: 140
+        height: 239
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d555acd7bcd577c4db6b058c92c6fc43
+      internalID: -1825711070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_22
+      rect:
+        serializedVersion: 2
+        x: 2592
+        y: 852
+        width: 127
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c4a82fc3b033642a86efb4d7cdc9ca
+      internalID: -506709978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_23
+      rect:
+        serializedVersion: 2
+        x: 2727
+        y: 852
+        width: 114
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5678a95604a184447bcc30a29411262f
+      internalID: -972148261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_24
+      rect:
+        serializedVersion: 2
+        x: 2848
+        y: 954
+        width: 101
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ada78c339991a14cb940cce2214ae71
+      internalID: -936439207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_25
+      rect:
+        serializedVersion: 2
+        x: 2955
+        y: 884
+        width: 137
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a255b9a7c03664ba827e1d608bb539
+      internalID: 364731518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_26
+      rect:
+        serializedVersion: 2
+        x: 3097
+        y: 884
+        width: 116
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 495c39baa74dd1641b7be9a42d99ed0d
+      internalID: -378682567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_27
+      rect:
+        serializedVersion: 2
+        x: 3216
+        y: 884
+        width: 139
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6262f579bbb0c4549b623fdff61e7a66
+      internalID: 1490189351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_28
+      rect:
+        serializedVersion: 2
+        x: 3364
+        y: 885
+        width: 134
+        height: 239
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af9c30c0532891a4bac8eaaffc949fa7
+      internalID: -1410121985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_29
+      rect:
+        serializedVersion: 2
+        x: 3508
+        y: 885
+        width: 144
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c69836bd3abc2c9418c0658d3d43ff4b
+      internalID: -558918663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_30
+      rect:
+        serializedVersion: 2
+        x: 3656
+        y: 1004
+        width: 83
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c8c9a529347d04bbe73f034835de7a
+      internalID: 401294442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_31
+      rect:
+        serializedVersion: 2
+        x: 3892
+        y: 1048
+        width: 84
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 437d503bfbeeadf4c9ea4206a3d73f4c
+      internalID: 1929041629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_32
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 1011
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb6dc71c4fd18b7449b21b484244e92e
+      internalID: -1118827134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_33
+      rect:
+        serializedVersion: 2
+        x: 2845
+        y: 893
+        width: 92
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57eb7cd3be041d14caf5b8293e0630b6
+      internalID: 1728466309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_34
+      rect:
+        serializedVersion: 2
+        x: 3731
+        y: 889
+        width: 165
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45584136b22958c4c8e9892903967829
+      internalID: 613159763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_35
+      rect:
+        serializedVersion: 2
+        x: 1812
+        y: 612
+        width: 111
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec0ca02b6fd96a46a11ab2fb90cfe5f
+      internalID: 1449340844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_36
+      rect:
+        serializedVersion: 2
+        x: 1927
+        y: 613
+        width: 86
+        height: 239
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2b4b50925b7720478253097a2a54197
+      internalID: -776760131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_37
+      rect:
+        serializedVersion: 2
+        x: 2020
+        y: 613
+        width: 137
+        height: 239
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e0ddfef28fb84b4b8a61d2a0ed5bc7d
+      internalID: -1041631849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_38
+      rect:
+        serializedVersion: 2
+        x: 2165
+        y: 612
+        width: 139
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 186ee425b3dd7504a8e0ab08df02ae44
+      internalID: -284799911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_39
+      rect:
+        serializedVersion: 2
+        x: 2312
+        y: 612
+        width: 136
+        height: 241
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2932f5aed0b125640a3df5f099f4b088
+      internalID: 1967363142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_40
+      rect:
+        serializedVersion: 2
+        x: 2453
+        y: 612
+        width: 54
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77413175f6cdb024aa418602b48697a4
+      internalID: 1950767469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_41
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 732
+        width: 83
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b9b1b3c8dcf754eac10367b1056589
+      internalID: -2112432642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_42
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 776
+        width: 84
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52801a365b7971c45ab07e4fdf5fc66f
+      internalID: -1273214320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_43
+      rect:
+        serializedVersion: 2
+        x: 2849
+        y: 776
+        width: 83
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eb4139314b4e3943b2f03a27deb0153
+      internalID: 939920903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_44
+      rect:
+        serializedVersion: 2
+        x: 3012
+        y: 804
+        width: 92
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89719753831fe9a48a194a67a00c895d
+      internalID: -1167798782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_45
+      rect:
+        serializedVersion: 2
+        x: 3113
+        y: 784
+        width: 99
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb54aa5d54d8f254dae9a7a8a42dbb26
+      internalID: -25158286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_46
+      rect:
+        serializedVersion: 2
+        x: 3248
+        y: 784
+        width: 84
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b66b9bf5d8c3fb4eafa4f8a0299dd9a
+      internalID: 774673732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_47
+      rect:
+        serializedVersion: 2
+        x: 3341
+        y: 620
+        width: 194
+        height: 264
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2f30064fecc0fd408a0f689248f0a41
+      internalID: 934445795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_48
+      rect:
+        serializedVersion: 2
+        x: 3544
+        y: 644
+        width: 88
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36200b95fba8c774da0efb09f0456c49
+      internalID: 573014142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_49
+      rect:
+        serializedVersion: 2
+        x: 3803
+        y: 811
+        width: 80
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49c879f382bdb474c84052019f22515f
+      internalID: -1078681463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_50
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 735
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a24cc76dc30605343b2f7372fc72a2a9
+      internalID: 668359934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_51
+      rect:
+        serializedVersion: 2
+        x: 2889
+        y: 668
+        width: 167
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7cc2ad66ba620241ab5e32b593e9f94
+      internalID: -201534511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_52
+      rect:
+        serializedVersion: 2
+        x: 3160
+        y: 605
+        width: 138
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4af23c8d421e87479786f08136782b1
+      internalID: -815634701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_53
+      rect:
+        serializedVersion: 2
+        x: 3643
+        y: 583
+        width: 151
+        height: 211
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c5c633d66b9b7342ad3c17ecffebffb
+      internalID: -768521056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_54
+      rect:
+        serializedVersion: 2
+        x: 3810
+        y: 583
+        width: 155
+        height: 212
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13d69bbe5bf4be747aaa1fb05d0f5696
+      internalID: -2076812394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_55
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 492
+        width: 139
+        height: 241
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a7703fefbbc85746aea832f0110e800
+      internalID: -1788280906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_56
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 492
+        width: 120
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c35262434bf1ba42b10c8bca31e3c8b
+      internalID: 1830307237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_57
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 492
+        width: 136
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c60a73b57dee2146af2e77bb93e41df
+      internalID: -1754987705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_58
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 491
+        width: 115
+        height: 241
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 436bddfecb6149e40b675eec3dfd9c37
+      internalID: -371663301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_59
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 492
+        width: 209
+        height: 241
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66083d98f1aae2d42a717c57e576676f
+      internalID: -252916723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_60
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 492
+        width: 85
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf0e5bceb0974194496384625646c726
+      internalID: 1168486438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_61
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 492
+        width: 141
+        height: 241
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d70da4f5a08ea8c43b2afeacdfd61c96
+      internalID: 1740140361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_62
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 491
+        width: 124
+        height: 241
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bd5353d6a70a5f45a0c9c85bb7b9d4b
+      internalID: 1628733379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_63
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 492
+        width: 56
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d00cdd6149592ae4eadfafd59e3c8b7e
+      internalID: 567516450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_64
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 510
+        width: 361
+        height: 211
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 503fd08821b14fa40ba13cf7f3bf3d5e
+      internalID: -338329500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_65
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 719
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64a92da33b146694584ffa27af757034
+      internalID: -1456710762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_66
+      rect:
+        serializedVersion: 2
+        x: 1623
+        y: 715
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e49433266fafd8748b305b883202ebd7
+      internalID: 1259128187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_67
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 492
+        width: 132
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96eb389f9911daa4e9477c6cf60632d0
+      internalID: -950567883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_68
+      rect:
+        serializedVersion: 2
+        x: 1623
+        y: 707
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3be4b299cf494745be891bc41c09644
+      internalID: 647174991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_69
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 711
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4878528c878bc9e4bbe53f7081ee49d4
+      internalID: 409185571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_70
+      rect:
+        serializedVersion: 2
+        x: 2595
+        y: 539
+        width: 164
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb9e164b616cefb4eb0d81b0dc5cfaff
+      internalID: 1122392123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_71
+      rect:
+        serializedVersion: 2
+        x: 1623
+        y: 695
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 057f7189424631a4ba634d75e42675d4
+      internalID: 480568845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_72
+      rect:
+        serializedVersion: 2
+        x: 1635
+        y: 703
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b419ab1ebf25643910da369eb76934
+      internalID: 535778981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_73
+      rect:
+        serializedVersion: 2
+        x: 1635
+        y: 695
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9708095220d93f14e8601661ed21c1c2
+      internalID: 1339990447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_74
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 679
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ea800eb0284c944b7d55427f0fab7c
+      internalID: -1885631507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_75
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 687
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87886b160d3e342449e5ca8d02bcc7be
+      internalID: -907962452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_76
+      rect:
+        serializedVersion: 2
+        x: 1635
+        y: 687
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9f943c48d141a249b26be131f9e5f14
+      internalID: -325564542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_77
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 679
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e46b91c6edecf74d8fe6c4e8925c985
+      internalID: -733116665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_78
+      rect:
+        serializedVersion: 2
+        x: 1635
+        y: 679
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 220ee9b25ce17f84083d237b9e8bdb7a
+      internalID: 1242758078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_79
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 671
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69dd61f20290caa4d8dbaecb2f1c0c09
+      internalID: -516065187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_80
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 671
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ac4a5d45b67b4c41aae478763e12f9b
+      internalID: 1078411225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_81
+      rect:
+        serializedVersion: 2
+        x: 1635
+        y: 671
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f663f29dc1e3f274996dfbb8dfba8e39
+      internalID: -157600801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_82
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 663
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f606d6d1ee2d57f43bc4a17417a4046c
+      internalID: 1693664483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_83
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 659
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c486a145a0e60a4ba91c7f2c59c5114
+      internalID: 359499812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_84
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 663
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16aee47fb1dddb543b8487c600c47e23
+      internalID: -2022111639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_85
+      rect:
+        serializedVersion: 2
+        x: 2944
+        y: 593
+        width: 95
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4de80dfd1e6b21429f54cc3dd4ebc3a
+      internalID: 2045728389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_86
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 655
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ba6e73c8020b44f8422da01c86d441
+      internalID: 8423420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_87
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 655
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f6801286b6c69b4980aeca9d69a5b46
+      internalID: 674776512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_88
+      rect:
+        serializedVersion: 2
+        x: 1623
+        y: 575
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8378845dd660ea34fba73deeb5f098e6
+      internalID: -1078438419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_89
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 575
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbf6cb0a9ddd9314a9f8e213d02f3309
+      internalID: -252319979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_90
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 575
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a2d7a06f96cc964494e9204b0e60708
+      internalID: 311492417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_91
+      rect:
+        serializedVersion: 2
+        x: 1647
+        y: 571
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f18cec6d31c5224485accf8953b0b00
+      internalID: -2034373001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_92
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 468
+        width: 291
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfb5fd6fdc191a4409f7505f7b770992
+      internalID: 66898597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_93
+      rect:
+        serializedVersion: 2
+        x: 2103
+        y: 488
+        width: 234
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46d83e5ef1d324c4483a8cf8ea2f02d1
+      internalID: -1363633631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_94
+      rect:
+        serializedVersion: 2
+        x: 2355
+        y: 391
+        width: 154
+        height: 211
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22a24fe0c23e67d43b5882e045776d6a
+      internalID: 999671453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_95
+      rect:
+        serializedVersion: 2
+        x: 2916
+        y: 325
+        width: 196
+        height: 263
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe4387218f3ca014092bfccaabef86cb
+      internalID: -22960263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_96
+      rect:
+        serializedVersion: 2
+        x: 3116
+        y: 330
+        width: 196
+        height: 266
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31f8eebc4099ca647a88f8bf93036556
+      internalID: -376604919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_97
+      rect:
+        serializedVersion: 2
+        x: 3314
+        y: 256
+        width: 193
+        height: 340
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb80575f99c0cb419143145f6d8b25d
+      internalID: -2008598130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_98
+      rect:
+        serializedVersion: 2
+        x: 3460
+        y: 420
+        width: 145
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef8df3ebe91f284cacd521ca15c3e5a
+      internalID: 1408566823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_99
+      rect:
+        serializedVersion: 2
+        x: 1623
+        y: 567
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b46b16a8184e64b4cb855bb42052a6f5
+      internalID: -99967168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_100
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 567
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 038f0ca865124964ba16aea72ece6d1e
+      internalID: 1639237603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_101
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 567
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a46ff85bb79c5564e8e63b07f6c01067
+      internalID: -1217125760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_102
+      rect:
+        serializedVersion: 2
+        x: 1647
+        y: 564
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec9258f5aeb5c642bbb3b4abbbd73b3
+      internalID: 46555987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_103
+      rect:
+        serializedVersion: 2
+        x: 3613
+        y: 472
+        width: 191
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02deee45a40695d49bf31e9d8f4a507f
+      internalID: 644600039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_104
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 560
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef3f606bc9daac49ba5b7adad0ec2ef
+      internalID: 327535452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_105
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 556
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ed5a0633a52114a96edb31301e8591
+      internalID: -15386271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_106
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 560
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 064ffeb9ea6d49a48b675c9381309b25
+      internalID: 242996206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_107
+      rect:
+        serializedVersion: 2
+        x: 1647
+        y: 556
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c5d8220cba138498e419b230302c76
+      internalID: -660199138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_108
+      rect:
+        serializedVersion: 2
+        x: 3808
+        y: 476
+        width: 145
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96016f496cf2f5243a8cb350e8027ddc
+      internalID: -909480374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_109
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 552
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e1065402300c864ea379e84c9a9fa4b
+      internalID: 839789581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_110
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 548
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 097d50fdd40773749bf044c5361b57f4
+      internalID: -697470685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_111
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 552
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc39ba776ce7f044c89df82458c53ef6
+      internalID: 2134350659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_112
+      rect:
+        serializedVersion: 2
+        x: 1647
+        y: 548
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b588fa18f395fc4686b2fd5a4e65520
+      internalID: 1220865884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_113
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 544
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3181b10076b992b4ea419a2d213c75af
+      internalID: -758425996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_114
+      rect:
+        serializedVersion: 2
+        x: 1635
+        y: 538
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb1ed50e1d57c3d47ba51b6086f3cf0f
+      internalID: 1217648228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_115
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 540
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c317d28f21b52f04591c79274d27ce14
+      internalID: -981533277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_116
+      rect:
+        serializedVersion: 2
+        x: 1647
+        y: 539
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9dce5a3e7e1b2f4fba99fb8addaffa8
+      internalID: -966358096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_117
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 534
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed41fb840cafea04499456de1e15fe5f
+      internalID: -248168845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_118
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 530
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d95077bfe8bdf34478551c06b4281882
+      internalID: -930716073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_119
+      rect:
+        serializedVersion: 2
+        x: 1635
+        y: 531
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a6d89d28b4151468701dd8b07507b1
+      internalID: 1705537135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_120
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 527
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6044f2945ea866641b7b6fd5f30d2cb4
+      internalID: -712807367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_121
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 526
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7423d65fbae80584da3da2bc32b0c55c
+      internalID: -36748774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_122
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 519
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c87e4a989b09d46acdd6e4a950ec56
+      internalID: -1362899975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_123
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 523
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89e2d891570653647b9539c09a0a7656
+      internalID: 1646856303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_124
+      rect:
+        serializedVersion: 2
+        x: 2516
+        y: 2
+        width: 219
+        height: 529
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d62eaf7447b04174cb85a0f3ae468740
+      internalID: 1370103115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_125
+      rect:
+        serializedVersion: 2
+        x: 2716
+        y: 2
+        width: 220
+        height: 529
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea96684418a8b9944ad023c452982ecf
+      internalID: -146184026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_126
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 519
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca239dc75afb5b844b22918310cf41de
+      internalID: -616544708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_127
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 515
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62628a0e84729da4491a1b85a58029b3
+      internalID: 2022812904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_128
+      rect:
+        serializedVersion: 2
+        x: 1647
+        y: 519
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05cc02ec623ea3c4c87876416faf6ffb
+      internalID: -1947409284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_129
+      rect:
+        serializedVersion: 2
+        x: 1587
+        y: 506
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c64047bf1bb44d142b2bdc436ac60aaf
+      internalID: 1838230713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_130
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 506
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91995710f9985a040a8e91075709bdb7
+      internalID: 1880180479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_131
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 507
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dfe218062f9d614486ffa21fd5cccd3
+      internalID: -1646892999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_132
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 511
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db1e9a64b0ee0d84f961f2c83f4849ad
+      internalID: -1025182078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_133
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 507
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bede7a7e5c321f54894d3c3abc652c02
+      internalID: 1153892409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_134
+      rect:
+        serializedVersion: 2
+        x: 1647
+        y: 511
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50abb052dce648e4db03de63e452656a
+      internalID: 190576995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_135
+      rect:
+        serializedVersion: 2
+        x: 1607
+        y: 498
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e9c1422c148862478eba8f19c0ff25b
+      internalID: 1586411242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_136
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 498
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16e5d3fb27b714d4ea236a6bac65cd0d
+      internalID: 1947876563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_137
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 503
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67cf2801f58c7cd47be89f0183f30302
+      internalID: 645555818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_138
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 498
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85d3912eef304024c880e986ac4f2008
+      internalID: 85297040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_139
+      rect:
+        serializedVersion: 2
+        x: 1647
+        y: 502
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c9f0d9ab8e58454b8ca8945c09d2aff
+      internalID: -1548601069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_140
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 494
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d82eae6937f47c4090602f180b8e4df
+      internalID: 1166427120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_141
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 251
+        width: 136
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffa54b6365175074984bf6aa49c436ab
+      internalID: 389396572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_142
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 252
+        width: 116
+        height: 239
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70dea403c62e2604fad06d07f4a569fd
+      internalID: 731330139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_143
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 252
+        width: 136
+        height: 239
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e645e22ec6bdad43b278b8893285b8d
+      internalID: 1324610245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_144
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 252
+        width: 208
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af8c8ec1fe4fb8b4caccbb7ec6a7cb60
+      internalID: 1511633021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_145
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 252
+        width: 85
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e30485c6727a98a44a7c2aaa7464af75
+      internalID: -332244782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_146
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 252
+        width: 140
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 947a3172ed3f9cd478e193ac7bb2d01a
+      internalID: 1277460351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_147
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 252
+        width: 128
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eb829e783e211a479c08bcbe48185b7
+      internalID: 2039141952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_148
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 16
+        width: 477
+        height: 476
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21612afa897ba3141b9261062c9cc7aa
+      internalID: 2094073981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_149
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 76
+        width: 245
+        height: 416
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df8f1e510ad67f646aa619f1aace43d8
+      internalID: 222377101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_150
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 76
+        width: 88
+        height: 416
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f23321a49ffdf2d4a85046d6cad5f70e
+      internalID: 1274202708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_151
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 196
+        width: 196
+        height: 264
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ad092d10dd6b1b49a1a241a03223b16
+      internalID: 1472808746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_152
+      rect:
+        serializedVersion: 2
+        x: 1940
+        y: 196
+        width: 196
+        height: 264
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a0088fcc38f0044d8ec732db2494fd4
+      internalID: 1326893738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_153
+      rect:
+        serializedVersion: 2
+        x: 2140
+        y: 220
+        width: 196
+        height: 263
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52707e9c298c4de44a50e8c4c2a678d3
+      internalID: 746009979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_154
+      rect:
+        serializedVersion: 2
+        x: 3458
+        y: 383
+        width: 148
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2010f8ae759bf904d989dd4a04c2e207
+      internalID: 1856950820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_155
+      rect:
+        serializedVersion: 2
+        x: 3613
+        y: 407
+        width: 186
+        height: 61
+      alignment: 9
+      pivot: {x: 0.017710697, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 998a6d3fd5f23ae4f999231a2747dc57
+      internalID: 513813641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_156
+      rect:
+        serializedVersion: 2
+        x: 3816
+        y: 359
+        width: 100
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8220f959e7db484ea6b6db4b0d76509
+      internalID: 1971732509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_157
+      rect:
+        serializedVersion: 2
+        x: 2346
+        y: 270
+        width: 163
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5139b48f87889a24cbd4a53122f8d5a2
+      internalID: 2018994551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_158
+      rect:
+        serializedVersion: 2
+        x: 3613
+        y: 344
+        width: 186
+        height: 60
+      alignment: 9
+      pivot: {x: 0.11880329, y: 0.4928955}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b6f2f5644f90d045a576b8ab74165f3
+      internalID: 1301235987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_159
+      rect:
+        serializedVersion: 2
+        x: 3823
+        y: 280
+        width: 55
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c22122e9debffe4ab2dec6f5c9105b2
+      internalID: -751913307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_160
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 12
+        width: 138
+        height: 239
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f0293eefa58b6245a2e2fd9422b0855
+      internalID: 819279174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_161
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 12
+        width: 140
+        height: 239
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3383277820dd9e24b8cb271aace884cb
+      internalID: -781766504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_162
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 12
+        width: 136
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ce3f1eb95b14db4f80497fbca532368
+      internalID: -2074505544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_163
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 10
+        width: 140
+        height: 241
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04a73d1c01f45fc479469c305b091199
+      internalID: -778558482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_164
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 12
+        width: 135
+        height: 239
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e80293083c255b4ea06b5da89c1bb00
+      internalID: -2066844046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_165
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 108
+        width: 292
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f71e1be0a7ddd42a8187c2ac966346
+      internalID: -1167991619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_166
+      rect:
+        serializedVersion: 2
+        x: 2341
+        y: 4
+        width: 195
+        height: 264
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80566d30e20b16f4b91aef3a2195b583
+      internalID: 824266115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_167
+      rect:
+        serializedVersion: 2
+        x: 2940
+        y: 61
+        width: 196
+        height: 263
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71207eb03172ee1498ec0c30ca946b64
+      internalID: -1691764559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_168
+      rect:
+        serializedVersion: 2
+        x: 3147
+        y: 111
+        width: 155
+        height: 211
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c321ea98ab7bbb740a873a59d0da405e
+      internalID: -649604597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_169
+      rect:
+        serializedVersion: 2
+        x: 3308
+        y: 156
+        width: 192
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a25724afe1b6fa49ae891ccbdd45ed1
+      internalID: -1678049147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_170
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 140
+        width: 193
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3136488f3dfe2bf47a26eb43d3a724fd
+      internalID: 367665642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_171
+      rect:
+        serializedVersion: 2
+        x: 3508
+        y: 228
+        width: 304
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51b8dda48b75a2b47a5a657f02a7e46d
+      internalID: 1565224362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_172
+      rect:
+        serializedVersion: 2
+        x: 1745
+        y: 9
+        width: 119
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a84478c1e922934f99cdad1b406eb9b
+      internalID: -138349431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_173
+      rect:
+        serializedVersion: 2
+        x: 1873
+        y: 9
+        width: 118
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c4cfab1b598564d8c419894696bd30
+      internalID: 291537104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_174
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 11
+        width: 120
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c576af78409b9664faa371652fa216a5
+      internalID: 830331017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_175
+      rect:
+        serializedVersion: 2
+        x: 2129
+        y: 9
+        width: 118
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d153d6a353c6140489fd1592c09b1327
+      internalID: 619341048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_176
+      rect:
+        serializedVersion: 2
+        x: 3703
+        y: 150
+        width: 56
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea0010562c39184eada76f7c03898e1
+      internalID: 1631497555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_177
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 5
+        width: 145
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b0d47b5822f66b4eba0283da2a953ba
+      internalID: 1451151882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_178
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 5
+        width: 113
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45455d26b1f78344380e844f21a4b8c6
+      internalID: 342995074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_179
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 39
+        width: 99
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38ebf4f73f0d9a043af1e25cf106c6ff
+      internalID: 440590756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_180
+      rect:
+        serializedVersion: 2
+        x: 3148
+        y: 4
+        width: 87
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7ff3abbbca744849a5703efbdf867c4
+      internalID: -2141880602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_181
+      rect:
+        serializedVersion: 2
+        x: 3244
+        y: 20
+        width: 55
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 564ddbee09cbbd84caa95f6f720a2c44
+      internalID: -927881542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_182
+      rect:
+        serializedVersion: 2
+        x: 3308
+        y: 53
+        width: 192
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f949a32a5ae7e4e4891d59b205e857f1
+      internalID: 1995904702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_183
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 21
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e02f8707098f74da201502d721ebe1
+      internalID: 713145995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_184
+      rect:
+        serializedVersion: 2
+        x: 3616
+        y: 60
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c5b7baac6fe780478da55e14bdd6240
+      internalID: -1591633150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGeneral-sheet-S84iXWk5Y-transformed_185
+      rect:
+        serializedVersion: 2
+        x: 3704
+        y: 72
+        width: 55
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b91b20323330004ab4dd69842110bd0
+      internalID: -1062503615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      GameGeneral-sheet-S84iXWk5Y-transformed_0: 1969841583
+      GameGeneral-sheet-S84iXWk5Y-transformed_1: -1229738697
+      GameGeneral-sheet-S84iXWk5Y-transformed_10: -1743911058
+      GameGeneral-sheet-S84iXWk5Y-transformed_100: 1639237603
+      GameGeneral-sheet-S84iXWk5Y-transformed_101: -1217125760
+      GameGeneral-sheet-S84iXWk5Y-transformed_102: 46555987
+      GameGeneral-sheet-S84iXWk5Y-transformed_103: 644600039
+      GameGeneral-sheet-S84iXWk5Y-transformed_104: 327535452
+      GameGeneral-sheet-S84iXWk5Y-transformed_105: -15386271
+      GameGeneral-sheet-S84iXWk5Y-transformed_106: 242996206
+      GameGeneral-sheet-S84iXWk5Y-transformed_107: -660199138
+      GameGeneral-sheet-S84iXWk5Y-transformed_108: -909480374
+      GameGeneral-sheet-S84iXWk5Y-transformed_109: 839789581
+      GameGeneral-sheet-S84iXWk5Y-transformed_11: -763784724
+      GameGeneral-sheet-S84iXWk5Y-transformed_110: -697470685
+      GameGeneral-sheet-S84iXWk5Y-transformed_111: 2134350659
+      GameGeneral-sheet-S84iXWk5Y-transformed_112: 1220865884
+      GameGeneral-sheet-S84iXWk5Y-transformed_113: -758425996
+      GameGeneral-sheet-S84iXWk5Y-transformed_114: 1217648228
+      GameGeneral-sheet-S84iXWk5Y-transformed_115: -981533277
+      GameGeneral-sheet-S84iXWk5Y-transformed_116: -966358096
+      GameGeneral-sheet-S84iXWk5Y-transformed_117: -248168845
+      GameGeneral-sheet-S84iXWk5Y-transformed_118: -930716073
+      GameGeneral-sheet-S84iXWk5Y-transformed_119: 1705537135
+      GameGeneral-sheet-S84iXWk5Y-transformed_12: 2041437418
+      GameGeneral-sheet-S84iXWk5Y-transformed_120: -712807367
+      GameGeneral-sheet-S84iXWk5Y-transformed_121: -36748774
+      GameGeneral-sheet-S84iXWk5Y-transformed_122: -1362899975
+      GameGeneral-sheet-S84iXWk5Y-transformed_123: 1646856303
+      GameGeneral-sheet-S84iXWk5Y-transformed_124: 1370103115
+      GameGeneral-sheet-S84iXWk5Y-transformed_125: -146184026
+      GameGeneral-sheet-S84iXWk5Y-transformed_126: -616544708
+      GameGeneral-sheet-S84iXWk5Y-transformed_127: 2022812904
+      GameGeneral-sheet-S84iXWk5Y-transformed_128: -1947409284
+      GameGeneral-sheet-S84iXWk5Y-transformed_129: 1838230713
+      GameGeneral-sheet-S84iXWk5Y-transformed_13: 1545650071
+      GameGeneral-sheet-S84iXWk5Y-transformed_130: 1880180479
+      GameGeneral-sheet-S84iXWk5Y-transformed_131: -1646892999
+      GameGeneral-sheet-S84iXWk5Y-transformed_132: -1025182078
+      GameGeneral-sheet-S84iXWk5Y-transformed_133: 1153892409
+      GameGeneral-sheet-S84iXWk5Y-transformed_134: 190576995
+      GameGeneral-sheet-S84iXWk5Y-transformed_135: 1586411242
+      GameGeneral-sheet-S84iXWk5Y-transformed_136: 1947876563
+      GameGeneral-sheet-S84iXWk5Y-transformed_137: 645555818
+      GameGeneral-sheet-S84iXWk5Y-transformed_138: 85297040
+      GameGeneral-sheet-S84iXWk5Y-transformed_139: -1548601069
+      GameGeneral-sheet-S84iXWk5Y-transformed_14: 993455783
+      GameGeneral-sheet-S84iXWk5Y-transformed_140: 1166427120
+      GameGeneral-sheet-S84iXWk5Y-transformed_141: 389396572
+      GameGeneral-sheet-S84iXWk5Y-transformed_142: 731330139
+      GameGeneral-sheet-S84iXWk5Y-transformed_143: 1324610245
+      GameGeneral-sheet-S84iXWk5Y-transformed_144: 1511633021
+      GameGeneral-sheet-S84iXWk5Y-transformed_145: -332244782
+      GameGeneral-sheet-S84iXWk5Y-transformed_146: 1277460351
+      GameGeneral-sheet-S84iXWk5Y-transformed_147: 2039141952
+      GameGeneral-sheet-S84iXWk5Y-transformed_148: 2094073981
+      GameGeneral-sheet-S84iXWk5Y-transformed_149: 222377101
+      GameGeneral-sheet-S84iXWk5Y-transformed_15: 296892407
+      GameGeneral-sheet-S84iXWk5Y-transformed_150: 1274202708
+      GameGeneral-sheet-S84iXWk5Y-transformed_151: 1472808746
+      GameGeneral-sheet-S84iXWk5Y-transformed_152: 1326893738
+      GameGeneral-sheet-S84iXWk5Y-transformed_153: 746009979
+      GameGeneral-sheet-S84iXWk5Y-transformed_154: 1856950820
+      GameGeneral-sheet-S84iXWk5Y-transformed_155: 513813641
+      GameGeneral-sheet-S84iXWk5Y-transformed_156: 1971732509
+      GameGeneral-sheet-S84iXWk5Y-transformed_157: 2018994551
+      GameGeneral-sheet-S84iXWk5Y-transformed_158: 1301235987
+      GameGeneral-sheet-S84iXWk5Y-transformed_159: -751913307
+      GameGeneral-sheet-S84iXWk5Y-transformed_16: 362461527
+      GameGeneral-sheet-S84iXWk5Y-transformed_160: 819279174
+      GameGeneral-sheet-S84iXWk5Y-transformed_161: -781766504
+      GameGeneral-sheet-S84iXWk5Y-transformed_162: -2074505544
+      GameGeneral-sheet-S84iXWk5Y-transformed_163: -778558482
+      GameGeneral-sheet-S84iXWk5Y-transformed_164: -2066844046
+      GameGeneral-sheet-S84iXWk5Y-transformed_165: -1167991619
+      GameGeneral-sheet-S84iXWk5Y-transformed_166: 824266115
+      GameGeneral-sheet-S84iXWk5Y-transformed_167: -1691764559
+      GameGeneral-sheet-S84iXWk5Y-transformed_168: -649604597
+      GameGeneral-sheet-S84iXWk5Y-transformed_169: -1678049147
+      GameGeneral-sheet-S84iXWk5Y-transformed_17: -873292216
+      GameGeneral-sheet-S84iXWk5Y-transformed_170: 367665642
+      GameGeneral-sheet-S84iXWk5Y-transformed_171: 1565224362
+      GameGeneral-sheet-S84iXWk5Y-transformed_172: -138349431
+      GameGeneral-sheet-S84iXWk5Y-transformed_173: 291537104
+      GameGeneral-sheet-S84iXWk5Y-transformed_174: 830331017
+      GameGeneral-sheet-S84iXWk5Y-transformed_175: 619341048
+      GameGeneral-sheet-S84iXWk5Y-transformed_176: 1631497555
+      GameGeneral-sheet-S84iXWk5Y-transformed_177: 1451151882
+      GameGeneral-sheet-S84iXWk5Y-transformed_178: 342995074
+      GameGeneral-sheet-S84iXWk5Y-transformed_179: 440590756
+      GameGeneral-sheet-S84iXWk5Y-transformed_18: 1566703302
+      GameGeneral-sheet-S84iXWk5Y-transformed_180: -2141880602
+      GameGeneral-sheet-S84iXWk5Y-transformed_181: -927881542
+      GameGeneral-sheet-S84iXWk5Y-transformed_182: 1995904702
+      GameGeneral-sheet-S84iXWk5Y-transformed_183: 713145995
+      GameGeneral-sheet-S84iXWk5Y-transformed_184: -1591633150
+      GameGeneral-sheet-S84iXWk5Y-transformed_185: -1062503615
+      GameGeneral-sheet-S84iXWk5Y-transformed_19: 338203561
+      GameGeneral-sheet-S84iXWk5Y-transformed_2: -950601216
+      GameGeneral-sheet-S84iXWk5Y-transformed_20: -1636807861
+      GameGeneral-sheet-S84iXWk5Y-transformed_21: -1825711070
+      GameGeneral-sheet-S84iXWk5Y-transformed_22: -506709978
+      GameGeneral-sheet-S84iXWk5Y-transformed_23: -972148261
+      GameGeneral-sheet-S84iXWk5Y-transformed_24: -936439207
+      GameGeneral-sheet-S84iXWk5Y-transformed_25: 364731518
+      GameGeneral-sheet-S84iXWk5Y-transformed_26: -378682567
+      GameGeneral-sheet-S84iXWk5Y-transformed_27: 1490189351
+      GameGeneral-sheet-S84iXWk5Y-transformed_28: -1410121985
+      GameGeneral-sheet-S84iXWk5Y-transformed_29: -558918663
+      GameGeneral-sheet-S84iXWk5Y-transformed_3: 1692695154
+      GameGeneral-sheet-S84iXWk5Y-transformed_30: 401294442
+      GameGeneral-sheet-S84iXWk5Y-transformed_31: 1929041629
+      GameGeneral-sheet-S84iXWk5Y-transformed_32: -1118827134
+      GameGeneral-sheet-S84iXWk5Y-transformed_33: 1728466309
+      GameGeneral-sheet-S84iXWk5Y-transformed_34: 613159763
+      GameGeneral-sheet-S84iXWk5Y-transformed_35: 1449340844
+      GameGeneral-sheet-S84iXWk5Y-transformed_36: -776760131
+      GameGeneral-sheet-S84iXWk5Y-transformed_37: -1041631849
+      GameGeneral-sheet-S84iXWk5Y-transformed_38: -284799911
+      GameGeneral-sheet-S84iXWk5Y-transformed_39: 1967363142
+      GameGeneral-sheet-S84iXWk5Y-transformed_4: 1757091231
+      GameGeneral-sheet-S84iXWk5Y-transformed_40: 1950767469
+      GameGeneral-sheet-S84iXWk5Y-transformed_41: -2112432642
+      GameGeneral-sheet-S84iXWk5Y-transformed_42: -1273214320
+      GameGeneral-sheet-S84iXWk5Y-transformed_43: 939920903
+      GameGeneral-sheet-S84iXWk5Y-transformed_44: -1167798782
+      GameGeneral-sheet-S84iXWk5Y-transformed_45: -25158286
+      GameGeneral-sheet-S84iXWk5Y-transformed_46: 774673732
+      GameGeneral-sheet-S84iXWk5Y-transformed_47: 934445795
+      GameGeneral-sheet-S84iXWk5Y-transformed_48: 573014142
+      GameGeneral-sheet-S84iXWk5Y-transformed_49: -1078681463
+      GameGeneral-sheet-S84iXWk5Y-transformed_5: 1116808002
+      GameGeneral-sheet-S84iXWk5Y-transformed_50: 668359934
+      GameGeneral-sheet-S84iXWk5Y-transformed_51: -201534511
+      GameGeneral-sheet-S84iXWk5Y-transformed_52: -815634701
+      GameGeneral-sheet-S84iXWk5Y-transformed_53: -768521056
+      GameGeneral-sheet-S84iXWk5Y-transformed_54: -2076812394
+      GameGeneral-sheet-S84iXWk5Y-transformed_55: -1788280906
+      GameGeneral-sheet-S84iXWk5Y-transformed_56: 1830307237
+      GameGeneral-sheet-S84iXWk5Y-transformed_57: -1754987705
+      GameGeneral-sheet-S84iXWk5Y-transformed_58: -371663301
+      GameGeneral-sheet-S84iXWk5Y-transformed_59: -252916723
+      GameGeneral-sheet-S84iXWk5Y-transformed_6: 644497751
+      GameGeneral-sheet-S84iXWk5Y-transformed_60: 1168486438
+      GameGeneral-sheet-S84iXWk5Y-transformed_61: 1740140361
+      GameGeneral-sheet-S84iXWk5Y-transformed_62: 1628733379
+      GameGeneral-sheet-S84iXWk5Y-transformed_63: 567516450
+      GameGeneral-sheet-S84iXWk5Y-transformed_64: -338329500
+      GameGeneral-sheet-S84iXWk5Y-transformed_65: -1456710762
+      GameGeneral-sheet-S84iXWk5Y-transformed_66: 1259128187
+      GameGeneral-sheet-S84iXWk5Y-transformed_67: -950567883
+      GameGeneral-sheet-S84iXWk5Y-transformed_68: 647174991
+      GameGeneral-sheet-S84iXWk5Y-transformed_69: 409185571
+      GameGeneral-sheet-S84iXWk5Y-transformed_7: 13579781
+      GameGeneral-sheet-S84iXWk5Y-transformed_70: 1122392123
+      GameGeneral-sheet-S84iXWk5Y-transformed_71: 480568845
+      GameGeneral-sheet-S84iXWk5Y-transformed_72: 535778981
+      GameGeneral-sheet-S84iXWk5Y-transformed_73: 1339990447
+      GameGeneral-sheet-S84iXWk5Y-transformed_74: -1885631507
+      GameGeneral-sheet-S84iXWk5Y-transformed_75: -907962452
+      GameGeneral-sheet-S84iXWk5Y-transformed_76: -325564542
+      GameGeneral-sheet-S84iXWk5Y-transformed_77: -733116665
+      GameGeneral-sheet-S84iXWk5Y-transformed_78: 1242758078
+      GameGeneral-sheet-S84iXWk5Y-transformed_79: -516065187
+      GameGeneral-sheet-S84iXWk5Y-transformed_8: 414179155
+      GameGeneral-sheet-S84iXWk5Y-transformed_80: 1078411225
+      GameGeneral-sheet-S84iXWk5Y-transformed_81: -157600801
+      GameGeneral-sheet-S84iXWk5Y-transformed_82: 1693664483
+      GameGeneral-sheet-S84iXWk5Y-transformed_83: 359499812
+      GameGeneral-sheet-S84iXWk5Y-transformed_84: -2022111639
+      GameGeneral-sheet-S84iXWk5Y-transformed_85: 2045728389
+      GameGeneral-sheet-S84iXWk5Y-transformed_86: 8423420
+      GameGeneral-sheet-S84iXWk5Y-transformed_87: 674776512
+      GameGeneral-sheet-S84iXWk5Y-transformed_88: -1078438419
+      GameGeneral-sheet-S84iXWk5Y-transformed_89: -252319979
+      GameGeneral-sheet-S84iXWk5Y-transformed_9: 2093812174
+      GameGeneral-sheet-S84iXWk5Y-transformed_90: 311492417
+      GameGeneral-sheet-S84iXWk5Y-transformed_91: -2034373001
+      GameGeneral-sheet-S84iXWk5Y-transformed_92: 66898597
+      GameGeneral-sheet-S84iXWk5Y-transformed_93: -1363633631
+      GameGeneral-sheet-S84iXWk5Y-transformed_94: 999671453
+      GameGeneral-sheet-S84iXWk5Y-transformed_95: -22960263
+      GameGeneral-sheet-S84iXWk5Y-transformed_96: -376604919
+      GameGeneral-sheet-S84iXWk5Y-transformed_97: -2008598130
+      GameGeneral-sheet-S84iXWk5Y-transformed_98: 1408566823
+      GameGeneral-sheet-S84iXWk5Y-transformed_99: -99967168
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
